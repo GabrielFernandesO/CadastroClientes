@@ -12,6 +12,8 @@ O **ClientBase** é uma ferramenta para o gerenciamento de informações de usu�
 
 O banco de dados SQLite é integrado ao projeto, proporcionando uma solução robusta e prática para gerenciar as informações sem necessidade de um servidor de banco de dados separado.
 
+Também foi adicionado aos arquivos o setup.exe do projeto Buildado via Inno, o que possibilita o uso do aplicativo sem a necessidade de clonar o repositório.
+
 ## Funcionalidades
 
 - **Adicionar Usuários**: Interface para inclusão de novos usuários.
